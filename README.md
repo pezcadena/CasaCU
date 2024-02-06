@@ -1,0 +1,2 @@
+# CasaCU
+Obsidian
