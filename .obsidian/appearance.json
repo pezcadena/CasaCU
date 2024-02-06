@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "translucency": true,
+  "nativeMenus": true
 }

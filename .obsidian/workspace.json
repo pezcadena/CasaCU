@@ -129,11 +129,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,5 +148,8 @@
     }
   },
   "active": "b542aea23d33c2e6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Refrigerador.md"
+  ]
 }
