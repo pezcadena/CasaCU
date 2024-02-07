@@ -2,3 +2,4 @@
 - Topper rojo: lechuga
 - Topper rosa: pasta de Salma
 - Topper vaquita: plátano macho
+- Pimiento rojo
