@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Refrigerador.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Refrigerador.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Refrigerador.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Refrigerador.md"
           }
         }
       },
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d32b6aabbf672e54",
+  "active": "ed6b714dc528eafb",
   "lastOpenFiles": [
+    "/Refrigerador.md",
     "Refrigerador.md",
     "README.md"
   ]
