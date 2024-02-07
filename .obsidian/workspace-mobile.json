@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "163f5bcbb4bb7684",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ed6b714dc528eafb",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d32b6aabbf672e54",
+  "active": "ed6b714dc528eafb",
   "lastOpenFiles": [
-    "/Refrigerador.md",
     "Refrigerador.md",
+    "/Refrigerador.md",
     "README.md"
   ]
 }
