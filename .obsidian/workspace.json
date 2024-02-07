@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Refrigerador.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,14 +128,21 @@
                 "file": "Refrigerador.md"
               }
             }
+          },
+          {
+            "id": "202a1dd5b1db3827",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
