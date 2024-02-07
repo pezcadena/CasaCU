@@ -1,6 +1,5 @@
 - Topper cafe: sopa verde
 - Topper rojo: lechuga
 - Topper rosa: pasta de Salma
-- prueba
-Otra prueba
-Otra mas desde la compu
+- Topper vaquita: plátano macho
+- Pimiento rojo
